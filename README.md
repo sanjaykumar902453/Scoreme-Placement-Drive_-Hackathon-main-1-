@@ -56,4 +56,4 @@ This project is licensed under the MIT License.
 
 Author
 
-Developed by Devendra Singh Thakur
+Developed by Sanjay Kumar
